@@ -12,7 +12,7 @@ Greetings!!!
 
 <div style="text-align: justify">
   
-I'm an Applied Scientist in Zillow since 2021. I received my Ph.D. degree in SMILE Lab, Department of Electrical & Computer Engineering at Northeastern University under the supervision of Prof. Yun (Raymond) Fu, in 2021. I received my M.S. degree in Electrical Engineering from Xi'an Jiaotong University (XJTU), China, in 2016. I received my B.S. degree in Electrical Engineering from Harbin Institute of Technology (HIT), China, in 2013. My research interests include Machine Learning and Computer Vision.
+I'm an Applied Scientist in Zillow since 2021. I received my Ph.D. degree in SMILE Lab, Department of Electrical & Computer Engineering at Northeastern University under the supervision of Prof. Yun (Raymond) Fu, in 2021. I received my M.S. degree in Electrical Engineering from Xi'an Jiaotong University (XJTU), China, in 2016. I received my B.S. degree in Electrical Engineering from Harbin Institute of Technology (HIT), China, in 2013. My research interests include Machine Learning and Computer Vision.</div>
 
 <div style="text-align: justify">
 
