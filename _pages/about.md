@@ -14,6 +14,7 @@ Greetings!!!
   
 I'm an Applied Scientist in Zillow since 2021. I received my Ph.D. degree in SMILE Lab, Department of Electrical & Computer Engineering at Northeastern University under the supervision of Prof. Yun (Raymond) Fu, in 2021. I received my M.S. degree in Electrical Engineering from Xi'an Jiaotong University (XJTU), China, in 2016. I received my B.S. degree in Electrical Engineering from Harbin Institute of Technology (HIT), China, in 2013. My research interests include Machine Learning and Computer Vision.
 
+<div style="text-align: justify">
 
 This is Lichen Wang. I have completed my undergraduate in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, Data Mining, and Image Processing.<br /><br /></div>
 
