@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lichen Wang"
+title                    : "Tonmoy Hossain"
 title_separator          : "-"
-name                     : &name "Lichen Wang"
+name                     : &name "Tonmoy Hossain"
 description              : &description "personal description"
-url                      : https://wanglichenxj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tonmoy-hossain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wanglichenxj/wanglichenxj.github.io"
+repository               : "tonmoy-hossain/tonmoy-hossain.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lichen Wang"
+  name             : "Tonmoy Hossain"
   avatar           : "final_picture.jpg"
   bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
-  location         : "Seattle, USA"
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=cE25iX4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ"
   DBLP             : 
-  email            :  wanglichenxj@gmail.com
+  email            :  tonmoyhossain.cse@ieee.org
   researchgate     :  "https://www.researchgate.net/profile/Tonmoy_Hossain2"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wanglichenxj"
+  github           : "tonmoy-hossain"
   google_plus      :
   keybase          :
   instagram        :

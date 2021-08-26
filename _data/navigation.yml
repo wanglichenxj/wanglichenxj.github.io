@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: /
-
-  - title: "Projects"
-  url: /projects/
     
   - title: "Publications"
     url: /publications/
 
   - title: "Education & Awards"
-    url: /education-awards/ 
+    url: /education-awards/    
+    
+  - title: "Projects"
+    url: /projects/
     
   #- title: "Blog Posts"
     #url: /blog-posts/ 
