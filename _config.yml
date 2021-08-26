@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tonmoy Hossain"
+title                    : "Lichen Wang"
 title_separator          : "-"
-name                     : &name "Tonmoy Hossain"
+name                     : &name "Lichen Wang"
 description              : &description "personal description"
-url                      : https://tonmoy-hossain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wanglichenxj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tonmoy-hossain/tonmoy-hossain.github.io"
+repository               : "wanglichenxj/wanglichenxj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tonmoy Hossain"
-  avatar           : "final_picture.jpg"
-  bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
-  location         : "Dhaka, Bangladesh"
-  employer         :
+  name             : "Lichen Wang"
+  # avatar           : "final_picture.jpg"
+  avatar           : "profile_img.jpg"
+  # bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
+  bio              : "Computer Vision and Machine Learning (wanglichenxj@gmail.com)"
+  location         : "Seattle, USA"
+  employer         : "Zillow Group"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=cE25iX4AAAAJ&hl=en"
   DBLP             : 
-  email            :  tonmoyhossain.cse@ieee.org
-  researchgate     :  "https://www.researchgate.net/profile/Tonmoy_Hossain2"
+  email            : wanglichenxj@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Tonmoy_Hossain2"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tonmoy-hossain"
+  github           : "wanglichenxj"
   google_plus      :
   keybase          :
   instagram        :
