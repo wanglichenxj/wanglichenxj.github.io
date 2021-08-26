@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Greetings!!!
+Welcome to Lichen Wang's homepage!
 
 <div style="text-align: justify">
   
-I'm an Applied Scientist in Zillow since 2021. I received my Ph.D. degree in SMILE Lab, Department of Electrical & Computer Engineering at Northeastern University under the supervision of Prof. Yun (Raymond) Fu, in 2021. I received my M.S. degree in Electrical Engineering from Xi'an Jiaotong University (XJTU), China, in 2016. I received my B.S. degree in Electrical Engineering from Harbin Institute of Technology (HIT), China, in 2013. My research interests include Machine Learning and Computer Vision.</div>
+I'm an Applied Scientist in Zillow Group since 2021. I received my Ph.D. degree in <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a>, Department of Electrical & Computer Engineering at <a href="https://www.northeastern.edu/">Northeastern University</a> under the supervision of Prof. <a href="http://www1.ece.neu.edu/~yunfu/">Yun (Raymond) Fu</a>, in 2021. I received my M.S. degree in Electrical Engineering from Xi'an Jiaotong University, Xi'an, China, in 2016. In addition, I received my B.S. degree in Electrical Engineering from Harbin Institute of Technology, Harbin, China, in 2013. My primary research interest lies in Machine Learning, Data Mining, Image Processing, and Computer Vision.</div>
 
 <div style="text-align: justify">
+ -
+</div>
 
-This is Lichen Wang. I have completed my undergraduate in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, Data Mining, and Image Processing.<br /><br /></div>
 
 <b>I’ll be starting the Ph.D. in Computer Science at the </b><span style="color:#E57200"><b> University of Virginia </b></span> <b>from this Fall. </b> &#x1F60a; <br />
 
 
-**For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
+**For additional information, please see my [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/). Feel free to contact me if you have any questions.**
 
 -----------
 
