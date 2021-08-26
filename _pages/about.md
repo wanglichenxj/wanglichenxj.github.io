@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Greetings!!!
+Welcome to Lichen Wang's homepage!
 
 <div style="text-align: justify"> 
+I'm an Applied Scientist in <a href="https://www.zillowgroup.com/">Zillow Group</a> since 2021. I received my Ph.D. degree in <a href="https://www.zillowgroup.com/">SMILE Lab</a>, Department of Electrical & Computer Engineering at <a href="https://www.zillowgroup.com/">Northeastern University</a> under the supervision of Prof. <a href="https://www.zillowgroup.com/">Yun (Raymond) Fu</a>, in 2021. I received my M.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Xi'an Jiaotong University</a>, China, in 2016. I received my B.S. degree in Electrical Engineering from <a href="https://www.zillowgroup.com/">Harbin Institute of Technology</a>, China, in 2013. My research interests include Machine Learning, Data Mining, Computer Vision, and Image Processing.<br /><br />
+</div>
 
-I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, Data Mining, and Image Processing.<br /><br /></div>
-
-<b>I’ll be starting the Ph.D. in Computer Science at the </b><span style="color:#E57200"><b> University of Virginia </b></span> <b>from this Fall. </b> &#x1F60a; <br />
-
-
-**For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
+**For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/). Feel free to contact me if you have any questions &#x1F60a;**
 
 -----------
 
