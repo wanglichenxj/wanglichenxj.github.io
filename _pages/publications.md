@@ -6,12 +6,31 @@ author_profile: true
 ---
 
 -----------
+## Conferences & Journals
 
-## 2021
------------
-* Sifat Ahmed, **Tonmoy Hossain**, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman, Faisal Muhammad Shah, **"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach"**, <i>SN Computer Science 2, no. 4 (2021): 1-17 [PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w)</i>
+
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **Domain Generalization via Feature Variation Decorrelation** <br> Chang Liu, **Lichen Wang**, Kai Li, Yun Fu<br> <i>ACM Multimedia (MM) 2021 </i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **Skeleton Aware Multi-modal Sign Language Recognition** <br> Songyang Jiang, Bin Sun, **Lichen Wang**, Yue Bai, Kunpeng Li, Yun Fu<br> <i>IEEE Computer Vision and Pattern Recognition (CVPR) Workshop 2021 </i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **Generic Multi-label Annotation via Adaptive Graph and Marginalized Augmentation** <br> **Lichen Wang**, Zhengming Ding, Yun Fu<br> <i>ACM Transactions on Knowledge Discovery from Data (TKDD)</i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **Contradictory Structure Learning for Semi-supervised Domain Adaptation** <br> Can Qin, **Lichen Wang**, Qianqian Ma, Yu Yin, Huan Wang, Yun Fu<br> <i>SIAM International Conference on Data Mining (SDM) 2021</i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **Correlative Channel-Aware Fusion for Multi-View Time Series Classification** <br> Yue Bai, **Lichen Wang**, Zhiqiang Tao, Sheng Li, Yun Fu<br> <i>The National Conference on Artificial Intelligence (AAAI) 2021 </i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **I3DOL: Incremental 3D Object Learning without Catastrophic Forgetting** <br> Jiahua Dong, Yang Cong, Gan Sun, Bingtao Ma, **Lichen Wang**<br> <i>The National Conference on Artificial Intelligence (AAAI) 2021</i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **Dual-Side Auto-Encoder for High-Dimensional Time Series Segmentation** <br> Yue Bai, **Lichen Wang**, Yunyu Liu, Yu Yin, Yun Fu<br> <i>International Conference on Data Mining (ICDM)</i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **Generative View-Correlation Adaptation for Semi-Supervised Multi-View Learning** <br> Yunyu Liu, **Lichen Wang**, Yue Bai, Can Qin, Zhengming Ding, and Yun Fu<br> <i>SN Computer Science 2, no. 4 (2021): 1-17 </i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+|<img src='profile_img.png' align='right' style=' width:300px;height:150px'/> | **Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach** <br> Sifat Ahmed, **Tonmoy Hossain**, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman, Faisal Muhammad Shah<br> <i>SN Computer Science 2, no. 4 (2021): 1-17 </i> <br>[PDF](https://link.springer.com/article/10.1007/s42979-021-00690-w) [GitHub](https://link.springer.com/article/10.1007/s42979-021-00690-w)|
+
+
 * Saiful Islam, Aurpan Dash, Ashek Seum, Amir Hossain Raj, **Tonmoy Hossain**, Faisal Muhammad Shah, ["Exploring Video Captioning Techniques: A Comprehensive Survey on Deep Learning Methods"](https://link.springer.com/article/10.1007/s42979-021-00487-x?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue&utm_source=ArticleAuthorIncrementalIssue&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorIncrementalIssue_20210302), Springer Nature Computer Science. 2, 120 (2021).
 * **Tonmoy Hossain**, Sujan Sarker, Sejuti Rahman, and Md Atiqur Rahman Ahad, “Skeleton-based Human Action Recognition on Large-Scale Datasets: Is Deep Learning the Best Approach?”, Accepted and will be published in <i>Vision, Sensing and Analytics: Integrative Approaches (Springer Nature) </i>.
+
+
+## Patents
+-----------
+
+
+
+
 
 
 ## 2020
