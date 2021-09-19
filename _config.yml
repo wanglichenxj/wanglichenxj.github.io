@@ -84,14 +84,14 @@ author:
   # avatar           : "final_picture.jpg"
   avatar           : "IMG_0137_2.jpg"
   # bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
-  bio              : "Applied Scientist in Zillow"
+  bio              : "Ph.D., Applied Scientist in Zillow"
   location         : "Seattle, USA"
   employer         : "Zillow Group"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cE25iX4AAAAJ&hl=en"
-  DBLP             : 
+  DBLP             : "https://dblp.org/pid/05/5102.html"
   email            : wanglichenxj@gmail.com
-  researchgate     : "https://www.researchgate.net/profile/Tonmoy_Hossain2"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -105,8 +105,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5808-6391"
+  linkedin         : "https://www.linkedin.com/in/lichenabc/"
+  orcid            : "https://orcid.org/0000-0002-3741-9492"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

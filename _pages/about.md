@@ -14,9 +14,45 @@ Welcome to Lichen Wang's homepage!
 I'm an Applied Scientist in <a href="https://www.zillowgroup.com/">Zillow Group</a> since 2021. I received my Ph.D. degree in <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a>, Department of Electrical & Computer Engineering at <a href="https://www.northeastern.edu/">Northeastern University</a> under the supervision of Prof. <a href="http://www1.ece.neu.edu/~yunfu/">Yun (Raymond) Fu</a>, in 2021. I received my M.S. degree in Electrical Engineering from <a href="http://en.xjtu.edu.cn/">Xi'an Jiaotong University</a>, China, in 2016. I received my B.S. degree in Electrical Engineering from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>, China, in 2013. My research interests include Machine Learning, Data Mining, Computer Vision, and Image Processing.<br /><br />
 </div>
 
-**For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/). Feel free to contact me if you have any questions &#x1F60a;**
+**For additional information, please see my [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/). Feel free to contact me if you have any questions &#x1F60a;**
+
 
 -----------
+# Education
+
+* **Northeastern University, Boston, USA**, 2016 - 2021
+  * Doctors of Philosophy, Major: Electrical & Computer Engineering, GPA: 4.0
+  * Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
+  * Research: Machine Learning, Computer Vision, Data Mining
+* **Xi'an Jiaotong University, Xi'an, China**, 2013 - 2016
+  * Master of Engineering, Major: Electronic and Information Engineering, GPA: 3.3
+  * Advisor: Prof. [Aimin Zhang](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=1474)
+  * Research: Machine Vision and Image Processing
+* **Harbin Institute of Technology, Harbin, China**, 2009 - 2013
+  * Bachelor of Engineering, Major: Electrical Engineering, GPA: 3.7
+  * Advisor: Prof. [Zhenshen Qu](http://ai.hit.edu.cn/2021/0410/c13102a252720/pagem.htm)
+  * Research: Image Processing, Control Engineering
+
+-----------
+# Working Experience
+* **[Zillow Group](https://www.zillowgroup.com/), Seattle, USA**, Jun. 2021 - present
+  * Applied Scientist
+  * Topic: 3D data processing, Zillow Infoor Dataset (ZInD) processing
+* **[Samsung Research America](https://www.sra.samsung.com/), Mountain View, USA**, Jun. 2020 - Sep. 2020
+  * Research Intern
+  * Topic: Multi-view (RGB-D) saliency detection, model compression.
+* **[NEC Laboratorise America](https://www.nec-labs.com/), Princeton, USA**, Jun. 2019 - Sep. 2019
+  * Research Intern
+  * Topic: Graph and Structural data representation learning, Reinformance learning for Natural Language Processing
+* **[Zebra Technology](https://www.zebra.com/us/en.html), Lincolnshire, USA**, Jun. 2017 - Sep. 2017 and Jun. 2018 - Sep. 2018
+  * Computer Vision Intern
+  * Topic: 3D data (point cloud and depth image) processing, 3D detection and measurement, human/object detection
+
+
+
+
+
+<!-- -----------
 
 
 # Activities 
@@ -47,7 +83,7 @@ I'm an Applied Scientist in <a href="https://www.zillowgroup.com/">Zillow Group<
 * <span style="color:Blue"> [March 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
 * <span style="color:Blue"> [March 1, 2019] </span> - One [journal paper](https://www.ijser.org/researchpaper/Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf) got accepted.
 
------------
+----------- -->
 
 
 

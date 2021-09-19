@@ -3,20 +3,21 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Projects"
-    url: /projects/
-    
   - title: "Publications"
     url: /publications/
 
-  - title: "Education & Awards"
-    url: /education-awards/
+  - title: "Projects"
+    url: /projects/   
+
+  # - title: "Education & Awards"
+  #   url: /education-awards/
     
   #- title: "Blog Posts"
     #url: /blog-posts/ 
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: "https://sites.google.com/site/lichenwang123/"
 
-  - title: "Test"
-    url: /cv/
+  # - title: "Test"
+  #   url: /cv/
