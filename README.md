@@ -1,7 +1,7 @@
 # Welcome
 
-Welcome to this repo. This repo is previously used for my homepage. Now my new homepage address is below and feel free to visit:
+Welcome to Lichen's repository. This repository was previously used for rendering my homepage. However, I have since migrated my homepage to Google Sites, and the new address is provided below:
 
 https://sites.google.com/site/lichenwang123/
 
-This repo is now used to store required files of my homepage.
+Now, this repository is used solely for storing required files. Please feel free to visit my new page and reach out to me if you have any questions.
